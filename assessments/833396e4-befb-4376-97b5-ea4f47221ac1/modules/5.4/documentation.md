@@ -5,4 +5,4 @@
 
 ## Documentation
 
-We need to do better.
+We are doing better
